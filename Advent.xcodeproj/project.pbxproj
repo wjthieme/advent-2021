@@ -7,40 +7,9 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		EDAD72EB2756447B00FE70F4 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDAD72EA2756447B00FE70F4 /* main.swift */; };
-		EDAD73272756494400FE70F4 /* Advent.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = EDAD731F2756494400FE70F4 /* Advent.framework */; };
-		EDAD73342756495700FE70F4 /* Puzzle.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDAD72FC2756455A00FE70F4 /* Puzzle.swift */; };
-		EDAD73352756495900FE70F4 /* 01.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDAD73012756463100FE70F4 /* 01.swift */; };
 		EDAD73362756495B00FE70F4 /* Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDAD72F72756451400FE70F4 /* Tests.swift */; };
 		EDAD73372756495C00FE70F4 /* Puzzle.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDAD72FE275645B700FE70F4 /* Puzzle.swift */; };
 		EDAD73382756495E00FE70F4 /* 01.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDAD73042756467800FE70F4 /* 01.swift */; };
-		EDAD733B2756498A00FE70F4 /* Advent.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = EDAD731F2756494400FE70F4 /* Advent.framework */; };
-		EDAD733C2756498A00FE70F4 /* Advent.framework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = EDAD731F2756494400FE70F4 /* Advent.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
-		EDAD73402756561A00FE70F4 /* 02.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDAD733F2756561A00FE70F4 /* 02.swift */; };
-		EDAD73422756562600FE70F4 /* 03.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDAD73412756562600FE70F4 /* 03.swift */; };
-		EDAD73442756566200FE70F4 /* 04.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDAD73432756566200FE70F4 /* 04.swift */; };
-		EDAD73462756566800FE70F4 /* 05.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDAD73452756566800FE70F4 /* 05.swift */; };
-		EDAD73482756566F00FE70F4 /* 06.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDAD73472756566F00FE70F4 /* 06.swift */; };
-		EDAD734A2756567700FE70F4 /* 07.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDAD73492756567700FE70F4 /* 07.swift */; };
-		EDAD734C2756567E00FE70F4 /* 08.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDAD734B2756567E00FE70F4 /* 08.swift */; };
-		EDAD734E2756568700FE70F4 /* 09.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDAD734D2756568700FE70F4 /* 09.swift */; };
-		EDAD73502756568E00FE70F4 /* 10.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDAD734F2756568E00FE70F4 /* 10.swift */; };
-		EDAD73522756569700FE70F4 /* 11.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDAD73512756569700FE70F4 /* 11.swift */; };
-		EDAD73542756569D00FE70F4 /* 12.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDAD73532756569D00FE70F4 /* 12.swift */; };
-		EDAD7356275656A300FE70F4 /* 13.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDAD7355275656A300FE70F4 /* 13.swift */; };
-		EDAD7358275656A900FE70F4 /* 14.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDAD7357275656A900FE70F4 /* 14.swift */; };
-		EDAD735A275656B100FE70F4 /* 15.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDAD7359275656B100FE70F4 /* 15.swift */; };
-		EDAD735C275656B800FE70F4 /* 16.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDAD735B275656B800FE70F4 /* 16.swift */; };
-		EDAD735E275656BF00FE70F4 /* 17.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDAD735D275656BF00FE70F4 /* 17.swift */; };
-		EDAD7360275656D200FE70F4 /* 18.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDAD735F275656D200FE70F4 /* 18.swift */; };
-		EDAD7362275656D900FE70F4 /* 19.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDAD7361275656D900FE70F4 /* 19.swift */; };
-		EDAD7364275656E100FE70F4 /* 20.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDAD7363275656E100FE70F4 /* 20.swift */; };
-		EDAD7366275656EA00FE70F4 /* 21.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDAD7365275656EA00FE70F4 /* 21.swift */; };
-		EDAD7368275656F300FE70F4 /* 22.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDAD7367275656F300FE70F4 /* 22.swift */; };
-		EDAD736A275656FA00FE70F4 /* 23.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDAD7369275656FA00FE70F4 /* 23.swift */; };
-		EDAD736C2756570100FE70F4 /* 24.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDAD736B2756570100FE70F4 /* 24.swift */; };
-		EDAD736E2756570800FE70F4 /* 25.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDAD736D2756570800FE70F4 /* 25.swift */; };
-		EDAD7371275657BB00FE70F4 /* Algorithms in Frameworks */ = {isa = PBXBuildFile; productRef = EDAD7370275657BB00FE70F4 /* Algorithms */; };
 		EDAD73732756585800FE70F4 /* 02.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDAD73722756585800FE70F4 /* 02.swift */; };
 		EDAD73752756586300FE70F4 /* 03.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDAD73742756586300FE70F4 /* 03.swift */; };
 		EDAD73772756586A00FE70F4 /* 04.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDAD73762756586A00FE70F4 /* 04.swift */; };
@@ -65,57 +34,55 @@
 		EDAD739D2756593A00FE70F4 /* 23.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDAD739C2756593A00FE70F4 /* 23.swift */; };
 		EDAD739F2756594300FE70F4 /* 24.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDAD739E2756594300FE70F4 /* 24.swift */; };
 		EDAD73A12756598700FE70F4 /* 25.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDAD73A02756598700FE70F4 /* 25.swift */; };
+		EDAD74002757987100FE70F4 /* Puzzle.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDAD72FC2756455A00FE70F4 /* Puzzle.swift */; };
+		EDAD74012757987100FE70F4 /* Auth.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDAD73A627576F1400FE70F4 /* Auth.swift */; };
+		EDAD74022757987100FE70F4 /* Input.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDAD73A42757650D00FE70F4 /* Input.swift */; };
+		EDAD74032757987500FE70F4 /* 13.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDAD7355275656A300FE70F4 /* 13.swift */; };
+		EDAD74042757987500FE70F4 /* 21.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDAD7365275656EA00FE70F4 /* 21.swift */; };
+		EDAD74052757987500FE70F4 /* 22.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDAD7367275656F300FE70F4 /* 22.swift */; };
+		EDAD74062757987500FE70F4 /* 19.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDAD7361275656D900FE70F4 /* 19.swift */; };
+		EDAD74072757987500FE70F4 /* 24.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDAD736B2756570100FE70F4 /* 24.swift */; };
+		EDAD74082757987500FE70F4 /* 11.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDAD73512756569700FE70F4 /* 11.swift */; };
+		EDAD74092757987500FE70F4 /* 08.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDAD734B2756567E00FE70F4 /* 08.swift */; };
+		EDAD740A2757987500FE70F4 /* 23.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDAD7369275656FA00FE70F4 /* 23.swift */; };
+		EDAD740B2757987500FE70F4 /* 25.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDAD736D2756570800FE70F4 /* 25.swift */; };
+		EDAD740C2757987500FE70F4 /* 16.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDAD735B275656B800FE70F4 /* 16.swift */; };
+		EDAD740D2757987500FE70F4 /* 06.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDAD73472756566F00FE70F4 /* 06.swift */; };
+		EDAD740E2757987500FE70F4 /* 20.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDAD7363275656E100FE70F4 /* 20.swift */; };
+		EDAD740F2757987500FE70F4 /* 15.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDAD7359275656B100FE70F4 /* 15.swift */; };
+		EDAD74102757987500FE70F4 /* 04.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDAD73432756566200FE70F4 /* 04.swift */; };
+		EDAD74112757987500FE70F4 /* 09.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDAD734D2756568700FE70F4 /* 09.swift */; };
+		EDAD74122757987500FE70F4 /* 02.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDAD733F2756561A00FE70F4 /* 02.swift */; };
+		EDAD74132757987500FE70F4 /* 07.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDAD73492756567700FE70F4 /* 07.swift */; };
+		EDAD74142757987500FE70F4 /* 05.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDAD73452756566800FE70F4 /* 05.swift */; };
+		EDAD74152757987500FE70F4 /* 03.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDAD73412756562600FE70F4 /* 03.swift */; };
+		EDAD74162757987500FE70F4 /* 10.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDAD734F2756568E00FE70F4 /* 10.swift */; };
+		EDAD74172757987500FE70F4 /* 14.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDAD7357275656A900FE70F4 /* 14.swift */; };
+		EDAD74182757987500FE70F4 /* 01.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDAD73012756463100FE70F4 /* 01.swift */; };
+		EDAD74192757987500FE70F4 /* 12.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDAD73532756569D00FE70F4 /* 12.swift */; };
+		EDAD741A2757987500FE70F4 /* 18.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDAD735F275656D200FE70F4 /* 18.swift */; };
+		EDAD741B2757987500FE70F4 /* 17.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDAD735D275656BF00FE70F4 /* 17.swift */; };
+		EDAD741C2757987900FE70F4 /* Main.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDAD72EA2756447B00FE70F4 /* Main.swift */; };
+		EDAD742127579C4000FE70F4 /* MainMenu.xib in Resources */ = {isa = PBXBuildFile; fileRef = EDAD742027579C4000FE70F4 /* MainMenu.xib */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
-		EDAD73282756494400FE70F4 /* PBXContainerItemProxy */ = {
+		EDAD73FE2757986500FE70F4 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = EDAD72DF2756447B00FE70F4 /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = EDAD731E2756494400FE70F4;
-			remoteInfo = Advent;
-		};
-		EDAD733D2756498A00FE70F4 /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = EDAD72DF2756447B00FE70F4 /* Project object */;
-			proxyType = 1;
-			remoteGlobalIDString = EDAD731E2756494400FE70F4;
+			remoteGlobalIDString = EDAD73F0275797E000FE70F4;
 			remoteInfo = Advent;
 		};
 /* End PBXContainerItemProxy section */
 
-/* Begin PBXCopyFilesBuildPhase section */
-		EDAD72E52756447B00FE70F4 /* CopyFiles */ = {
-			isa = PBXCopyFilesBuildPhase;
-			buildActionMask = 2147483647;
-			dstPath = /usr/share/man/man1/;
-			dstSubfolderSpec = 0;
-			files = (
-			);
-			runOnlyForDeploymentPostprocessing = 1;
-		};
-		EDAD73192756490B00FE70F4 /* Embed Frameworks */ = {
-			isa = PBXCopyFilesBuildPhase;
-			buildActionMask = 2147483647;
-			dstPath = "";
-			dstSubfolderSpec = 10;
-			files = (
-				EDAD733C2756498A00FE70F4 /* Advent.framework in Embed Frameworks */,
-			);
-			name = "Embed Frameworks";
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-/* End PBXCopyFilesBuildPhase section */
-
 /* Begin PBXFileReference section */
-		EDAD72E72756447B00FE70F4 /* CLI */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = CLI; sourceTree = BUILT_PRODUCTS_DIR; };
-		EDAD72EA2756447B00FE70F4 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		EDAD72EA2756447B00FE70F4 /* Main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Main.swift; sourceTree = "<group>"; };
 		EDAD72F72756451400FE70F4 /* Tests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tests.swift; sourceTree = "<group>"; };
 		EDAD72FC2756455A00FE70F4 /* Puzzle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Puzzle.swift; sourceTree = "<group>"; };
 		EDAD72FE275645B700FE70F4 /* Puzzle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Puzzle.swift; sourceTree = "<group>"; };
 		EDAD73012756463100FE70F4 /* 01.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 01.swift; sourceTree = "<group>"; };
 		EDAD73042756467800FE70F4 /* 01.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 01.swift; sourceTree = "<group>"; };
-		EDAD731F2756494400FE70F4 /* Advent.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Advent.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		EDAD73262756494400FE70F4 /* Tests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = Tests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		EDAD733F2756561A00FE70F4 /* 02.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 02.swift; sourceTree = "<group>"; };
 		EDAD73412756562600FE70F4 /* 03.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 03.swift; sourceTree = "<group>"; };
@@ -165,30 +132,26 @@
 		EDAD739C2756593A00FE70F4 /* 23.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 23.swift; sourceTree = "<group>"; };
 		EDAD739E2756594300FE70F4 /* 24.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 24.swift; sourceTree = "<group>"; };
 		EDAD73A02756598700FE70F4 /* 25.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 25.swift; sourceTree = "<group>"; };
+		EDAD73A42757650D00FE70F4 /* Input.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Input.swift; sourceTree = "<group>"; };
+		EDAD73A627576F1400FE70F4 /* Auth.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Auth.swift; sourceTree = "<group>"; };
+		EDAD73F1275797E000FE70F4 /* Advent.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Advent.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		EDAD73FA275797E100FE70F4 /* Advent.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = Advent.entitlements; sourceTree = "<group>"; };
+		EDAD741F27579B7800FE70F4 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		EDAD742027579C4000FE70F4 /* MainMenu.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = MainMenu.xib; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		EDAD72E42756447B00FE70F4 /* Frameworks */ = {
-			isa = PBXFrameworksBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				EDAD733B2756498A00FE70F4 /* Advent.framework in Frameworks */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		EDAD731C2756494400FE70F4 /* Frameworks */ = {
-			isa = PBXFrameworksBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				EDAD7371275657BB00FE70F4 /* Algorithms in Frameworks */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
 		EDAD73232756494400FE70F4 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				EDAD73272756494400FE70F4 /* Advent.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		EDAD73EE275797E000FE70F4 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -198,9 +161,10 @@
 		EDAD72DE2756447B00FE70F4 = {
 			isa = PBXGroup;
 			children = (
-				EDAD72EA2756447B00FE70F4 /* main.swift */,
+				EDAD72EA2756447B00FE70F4 /* Main.swift */,
 				EDAD72E92756447B00FE70F4 /* Advent */,
 				EDAD72F62756451400FE70F4 /* Tests */,
+				EDAD742327579C8E00FE70F4 /* Resources */,
 				EDAD72E82756447B00FE70F4 /* Products */,
 				EDAD73142756490B00FE70F4 /* Frameworks */,
 			);
@@ -209,9 +173,8 @@
 		EDAD72E82756447B00FE70F4 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				EDAD72E72756447B00FE70F4 /* CLI */,
-				EDAD731F2756494400FE70F4 /* Advent.framework */,
 				EDAD73262756494400FE70F4 /* Tests.xctest */,
+				EDAD73F1275797E000FE70F4 /* Advent.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -220,6 +183,8 @@
 			isa = PBXGroup;
 			children = (
 				EDAD72FC2756455A00FE70F4 /* Puzzle.swift */,
+				EDAD73A42757650D00FE70F4 /* Input.swift */,
+				EDAD73A627576F1400FE70F4 /* Auth.swift */,
 				EDAD73002756462900FE70F4 /* Days */,
 			);
 			path = Advent;
@@ -306,59 +271,19 @@
 			name = Frameworks;
 			sourceTree = "<group>";
 		};
+		EDAD742327579C8E00FE70F4 /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				EDAD73FA275797E100FE70F4 /* Advent.entitlements */,
+				EDAD741F27579B7800FE70F4 /* Info.plist */,
+				EDAD742027579C4000FE70F4 /* MainMenu.xib */,
+			);
+			path = Resources;
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
-/* Begin PBXHeadersBuildPhase section */
-		EDAD731A2756494400FE70F4 /* Headers */ = {
-			isa = PBXHeadersBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-/* End PBXHeadersBuildPhase section */
-
 /* Begin PBXNativeTarget section */
-		EDAD72E62756447B00FE70F4 /* CLI */ = {
-			isa = PBXNativeTarget;
-			buildConfigurationList = EDAD72EE2756447B00FE70F4 /* Build configuration list for PBXNativeTarget "CLI" */;
-			buildPhases = (
-				EDAD72E32756447B00FE70F4 /* Sources */,
-				EDAD72E42756447B00FE70F4 /* Frameworks */,
-				EDAD72E52756447B00FE70F4 /* CopyFiles */,
-				EDAD73192756490B00FE70F4 /* Embed Frameworks */,
-			);
-			buildRules = (
-			);
-			dependencies = (
-				EDAD733E2756498A00FE70F4 /* PBXTargetDependency */,
-			);
-			name = CLI;
-			productName = "Advent 2021";
-			productReference = EDAD72E72756447B00FE70F4 /* CLI */;
-			productType = "com.apple.product-type.tool";
-		};
-		EDAD731E2756494400FE70F4 /* Advent */ = {
-			isa = PBXNativeTarget;
-			buildConfigurationList = EDAD732E2756494400FE70F4 /* Build configuration list for PBXNativeTarget "Advent" */;
-			buildPhases = (
-				EDAD731A2756494400FE70F4 /* Headers */,
-				EDAD731B2756494400FE70F4 /* Sources */,
-				EDAD731C2756494400FE70F4 /* Frameworks */,
-				EDAD731D2756494400FE70F4 /* Resources */,
-			);
-			buildRules = (
-			);
-			dependencies = (
-			);
-			name = Advent;
-			packageProductDependencies = (
-				EDAD7370275657BB00FE70F4 /* Algorithms */,
-			);
-			productName = Advent;
-			productReference = EDAD731F2756494400FE70F4 /* Advent.framework */;
-			productType = "com.apple.product-type.framework";
-		};
 		EDAD73252756494400FE70F4 /* Tests */ = {
 			isa = PBXNativeTarget;
 			buildConfigurationList = EDAD73312756494400FE70F4 /* Build configuration list for PBXNativeTarget "Tests" */;
@@ -370,12 +295,29 @@
 			buildRules = (
 			);
 			dependencies = (
-				EDAD73292756494400FE70F4 /* PBXTargetDependency */,
+				EDAD73FF2757986500FE70F4 /* PBXTargetDependency */,
 			);
 			name = Tests;
 			productName = AdventTests;
 			productReference = EDAD73262756494400FE70F4 /* Tests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		EDAD73F0275797E000FE70F4 /* Advent */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = EDAD73FB275797E100FE70F4 /* Build configuration list for PBXNativeTarget "Advent" */;
+			buildPhases = (
+				EDAD73ED275797E000FE70F4 /* Sources */,
+				EDAD73EE275797E000FE70F4 /* Frameworks */,
+				EDAD73EF275797E000FE70F4 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = Advent;
+			productName = CLI;
+			productReference = EDAD73F1275797E000FE70F4 /* Advent.app */;
+			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
 
@@ -387,13 +329,11 @@
 				LastSwiftUpdateCheck = 1310;
 				LastUpgradeCheck = 1310;
 				TargetAttributes = {
-					EDAD72E62756447B00FE70F4 = {
-						CreatedOnToolsVersion = 13.1;
-					};
-					EDAD731E2756494400FE70F4 = {
-						CreatedOnToolsVersion = 13.1;
-					};
 					EDAD73252756494400FE70F4 = {
+						CreatedOnToolsVersion = 13.1;
+						TestTargetID = EDAD73F0275797E000FE70F4;
+					};
+					EDAD73F0275797E000FE70F4 = {
 						CreatedOnToolsVersion = 13.1;
 					};
 				};
@@ -414,21 +354,13 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				EDAD72E62756447B00FE70F4 /* CLI */,
-				EDAD731E2756494400FE70F4 /* Advent */,
+				EDAD73F0275797E000FE70F4 /* Advent */,
 				EDAD73252756494400FE70F4 /* Tests */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		EDAD731D2756494400FE70F4 /* Resources */ = {
-			isa = PBXResourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
 		EDAD73242756494400FE70F4 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
@@ -436,50 +368,17 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
+		EDAD73EF275797E000FE70F4 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				EDAD742127579C4000FE70F4 /* MainMenu.xib in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		EDAD72E32756447B00FE70F4 /* Sources */ = {
-			isa = PBXSourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				EDAD72EB2756447B00FE70F4 /* main.swift in Sources */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		EDAD731B2756494400FE70F4 /* Sources */ = {
-			isa = PBXSourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				EDAD735C275656B800FE70F4 /* 16.swift in Sources */,
-				EDAD73352756495900FE70F4 /* 01.swift in Sources */,
-				EDAD73342756495700FE70F4 /* Puzzle.swift in Sources */,
-				EDAD736C2756570100FE70F4 /* 24.swift in Sources */,
-				EDAD73502756568E00FE70F4 /* 10.swift in Sources */,
-				EDAD7356275656A300FE70F4 /* 13.swift in Sources */,
-				EDAD734C2756567E00FE70F4 /* 08.swift in Sources */,
-				EDAD734A2756567700FE70F4 /* 07.swift in Sources */,
-				EDAD73522756569700FE70F4 /* 11.swift in Sources */,
-				EDAD736A275656FA00FE70F4 /* 23.swift in Sources */,
-				EDAD73462756566800FE70F4 /* 05.swift in Sources */,
-				EDAD7368275656F300FE70F4 /* 22.swift in Sources */,
-				EDAD736E2756570800FE70F4 /* 25.swift in Sources */,
-				EDAD7358275656A900FE70F4 /* 14.swift in Sources */,
-				EDAD7366275656EA00FE70F4 /* 21.swift in Sources */,
-				EDAD735A275656B100FE70F4 /* 15.swift in Sources */,
-				EDAD735E275656BF00FE70F4 /* 17.swift in Sources */,
-				EDAD73422756562600FE70F4 /* 03.swift in Sources */,
-				EDAD7362275656D900FE70F4 /* 19.swift in Sources */,
-				EDAD7364275656E100FE70F4 /* 20.swift in Sources */,
-				EDAD73442756566200FE70F4 /* 04.swift in Sources */,
-				EDAD73402756561A00FE70F4 /* 02.swift in Sources */,
-				EDAD734E2756568700FE70F4 /* 09.swift in Sources */,
-				EDAD73482756566F00FE70F4 /* 06.swift in Sources */,
-				EDAD7360275656D200FE70F4 /* 18.swift in Sources */,
-				EDAD73542756569D00FE70F4 /* 12.swift in Sources */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
 		EDAD73222756494400FE70F4 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
@@ -514,18 +413,49 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
+		EDAD73ED275797E000FE70F4 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				EDAD74022757987100FE70F4 /* Input.swift in Sources */,
+				EDAD74072757987500FE70F4 /* 24.swift in Sources */,
+				EDAD74112757987500FE70F4 /* 09.swift in Sources */,
+				EDAD740B2757987500FE70F4 /* 25.swift in Sources */,
+				EDAD74082757987500FE70F4 /* 11.swift in Sources */,
+				EDAD740A2757987500FE70F4 /* 23.swift in Sources */,
+				EDAD741C2757987900FE70F4 /* Main.swift in Sources */,
+				EDAD74092757987500FE70F4 /* 08.swift in Sources */,
+				EDAD74062757987500FE70F4 /* 19.swift in Sources */,
+				EDAD74172757987500FE70F4 /* 14.swift in Sources */,
+				EDAD74002757987100FE70F4 /* Puzzle.swift in Sources */,
+				EDAD740E2757987500FE70F4 /* 20.swift in Sources */,
+				EDAD741B2757987500FE70F4 /* 17.swift in Sources */,
+				EDAD740F2757987500FE70F4 /* 15.swift in Sources */,
+				EDAD74192757987500FE70F4 /* 12.swift in Sources */,
+				EDAD74142757987500FE70F4 /* 05.swift in Sources */,
+				EDAD74012757987100FE70F4 /* Auth.swift in Sources */,
+				EDAD74042757987500FE70F4 /* 21.swift in Sources */,
+				EDAD740C2757987500FE70F4 /* 16.swift in Sources */,
+				EDAD74162757987500FE70F4 /* 10.swift in Sources */,
+				EDAD74102757987500FE70F4 /* 04.swift in Sources */,
+				EDAD74032757987500FE70F4 /* 13.swift in Sources */,
+				EDAD741A2757987500FE70F4 /* 18.swift in Sources */,
+				EDAD74052757987500FE70F4 /* 22.swift in Sources */,
+				EDAD74122757987500FE70F4 /* 02.swift in Sources */,
+				EDAD74132757987500FE70F4 /* 07.swift in Sources */,
+				EDAD74152757987500FE70F4 /* 03.swift in Sources */,
+				EDAD74182757987500FE70F4 /* 01.swift in Sources */,
+				EDAD740D2757987500FE70F4 /* 06.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXTargetDependency section */
-		EDAD73292756494400FE70F4 /* PBXTargetDependency */ = {
+		EDAD73FF2757986500FE70F4 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = EDAD731E2756494400FE70F4 /* Advent */;
-			targetProxy = EDAD73282756494400FE70F4 /* PBXContainerItemProxy */;
-		};
-		EDAD733E2756498A00FE70F4 /* PBXTargetDependency */ = {
-			isa = PBXTargetDependency;
-			target = EDAD731E2756494400FE70F4 /* Advent */;
-			targetProxy = EDAD733D2756498A00FE70F4 /* PBXContainerItemProxy */;
+			target = EDAD73F0275797E000FE70F4 /* Advent */;
+			targetProxy = EDAD73FE2757986500FE70F4 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
 
@@ -645,94 +575,10 @@
 			};
 			name = Release;
 		};
-		EDAD72EF2756447B00FE70F4 /* Debug */ = {
-			isa = XCBuildConfiguration;
-			buildSettings = {
-				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = 9ELM74XG98;
-				ENABLE_HARDENED_RUNTIME = YES;
-				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_VERSION = 5.0;
-			};
-			name = Debug;
-		};
-		EDAD72F02756447B00FE70F4 /* Release */ = {
-			isa = XCBuildConfiguration;
-			buildSettings = {
-				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = 9ELM74XG98;
-				ENABLE_HARDENED_RUNTIME = YES;
-				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_VERSION = 5.0;
-			};
-			name = Release;
-		};
-		EDAD732F2756494400FE70F4 /* Debug */ = {
-			isa = XCBuildConfiguration;
-			buildSettings = {
-				CODE_SIGN_IDENTITY = "Apple Development";
-				CODE_SIGN_STYLE = Automatic;
-				COMBINE_HIDPI_IMAGES = YES;
-				CURRENT_PROJECT_VERSION = 1;
-				DEFINES_MODULE = YES;
-				DEVELOPMENT_TEAM = 9ELM74XG98;
-				DYLIB_COMPATIBILITY_VERSION = 1;
-				DYLIB_CURRENT_VERSION = 1;
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_KEY_NSHumanReadableCopyright = "";
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				LD_RUNPATH_SEARCH_PATHS = (
-					"$(inherited)",
-					"@executable_path/../Frameworks",
-					"@loader_path/Frameworks",
-				);
-				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.wjthieme.Advent;
-				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
-				SKIP_INSTALL = YES;
-				SWIFT_EMIT_LOC_STRINGS = YES;
-				SWIFT_VERSION = 5.0;
-				VERSIONING_SYSTEM = "apple-generic";
-				VERSION_INFO_PREFIX = "";
-			};
-			name = Debug;
-		};
-		EDAD73302756494400FE70F4 /* Release */ = {
-			isa = XCBuildConfiguration;
-			buildSettings = {
-				CODE_SIGN_IDENTITY = "Apple Development";
-				CODE_SIGN_STYLE = Automatic;
-				COMBINE_HIDPI_IMAGES = YES;
-				CURRENT_PROJECT_VERSION = 1;
-				DEFINES_MODULE = YES;
-				DEVELOPMENT_TEAM = 9ELM74XG98;
-				DYLIB_COMPATIBILITY_VERSION = 1;
-				DYLIB_CURRENT_VERSION = 1;
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_KEY_NSHumanReadableCopyright = "";
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				LD_RUNPATH_SEARCH_PATHS = (
-					"$(inherited)",
-					"@executable_path/../Frameworks",
-					"@loader_path/Frameworks",
-				);
-				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.wjthieme.Advent;
-				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
-				SKIP_INSTALL = YES;
-				SWIFT_EMIT_LOC_STRINGS = YES;
-				SWIFT_VERSION = 5.0;
-				VERSIONING_SYSTEM = "apple-generic";
-				VERSION_INFO_PREFIX = "";
-			};
-			name = Release;
-		};
 		EDAD73322756494400FE70F4 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				BUNDLE_LOADER = "$(TEST_HOST)";
 				CODE_SIGN_STYLE = Automatic;
 				COMBINE_HIDPI_IMAGES = YES;
 				CURRENT_PROJECT_VERSION = 1;
@@ -748,13 +594,14 @@
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = NO;
 				SWIFT_VERSION = 5.0;
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Advent.app/Contents/MacOS/Advent";
 			};
 			name = Debug;
 		};
 		EDAD73332756494400FE70F4 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				BUNDLE_LOADER = "$(TEST_HOST)";
 				CODE_SIGN_STYLE = Automatic;
 				COMBINE_HIDPI_IMAGES = YES;
 				CURRENT_PROJECT_VERSION = 1;
@@ -769,6 +616,61 @@
 				PRODUCT_BUNDLE_IDENTIFIER = com.wjthieme.AdventTests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Advent.app/Contents/MacOS/Advent";
+			};
+			name = Release;
+		};
+		EDAD73FC275797E100FE70F4 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_ENTITLEMENTS = Resources/Advent.entitlements;
+				CODE_SIGN_STYLE = Automatic;
+				COMBINE_HIDPI_IMAGES = YES;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 9ELM74XG98;
+				ENABLE_HARDENED_RUNTIME = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = Resources/Info.plist;
+				INFOPLIST_KEY_NSHumanReadableCopyright = "";
+				INFOPLIST_KEY_NSMainNibFile = MainMenu;
+				INFOPLIST_KEY_NSPrincipalClass = NSApplication;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/../Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.wjthieme.Advent;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+			};
+			name = Debug;
+		};
+		EDAD73FD275797E100FE70F4 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_ENTITLEMENTS = Resources/Advent.entitlements;
+				CODE_SIGN_STYLE = Automatic;
+				COMBINE_HIDPI_IMAGES = YES;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 9ELM74XG98;
+				ENABLE_HARDENED_RUNTIME = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = Resources/Info.plist;
+				INFOPLIST_KEY_NSHumanReadableCopyright = "";
+				INFOPLIST_KEY_NSMainNibFile = MainMenu;
+				INFOPLIST_KEY_NSPrincipalClass = NSApplication;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/../Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.wjthieme.Advent;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
 			};
 			name = Release;
@@ -785,29 +687,20 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		EDAD72EE2756447B00FE70F4 /* Build configuration list for PBXNativeTarget "CLI" */ = {
-			isa = XCConfigurationList;
-			buildConfigurations = (
-				EDAD72EF2756447B00FE70F4 /* Debug */,
-				EDAD72F02756447B00FE70F4 /* Release */,
-			);
-			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
-		};
-		EDAD732E2756494400FE70F4 /* Build configuration list for PBXNativeTarget "Advent" */ = {
-			isa = XCConfigurationList;
-			buildConfigurations = (
-				EDAD732F2756494400FE70F4 /* Debug */,
-				EDAD73302756494400FE70F4 /* Release */,
-			);
-			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
-		};
 		EDAD73312756494400FE70F4 /* Build configuration list for PBXNativeTarget "Tests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				EDAD73322756494400FE70F4 /* Debug */,
 				EDAD73332756494400FE70F4 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		EDAD73FB275797E100FE70F4 /* Build configuration list for PBXNativeTarget "Advent" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				EDAD73FC275797E100FE70F4 /* Debug */,
+				EDAD73FD275797E100FE70F4 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
@@ -824,14 +717,6 @@
 			};
 		};
 /* End XCRemoteSwiftPackageReference section */
-
-/* Begin XCSwiftPackageProductDependency section */
-		EDAD7370275657BB00FE70F4 /* Algorithms */ = {
-			isa = XCSwiftPackageProductDependency;
-			package = EDAD736F275657BB00FE70F4 /* XCRemoteSwiftPackageReference "swift-algorithms" */;
-			productName = Algorithms;
-		};
-/* End XCSwiftPackageProductDependency section */
 	};
 	rootObject = EDAD72DF2756447B00FE70F4 /* Project object */;
 }

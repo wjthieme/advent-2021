@@ -7,44 +7,16 @@
       buildImplicitDependencies = "YES">
       <BuildActionEntries>
          <BuildActionEntry
-            buildForTesting = "NO"
+            buildForTesting = "YES"
             buildForRunning = "YES"
-            buildForProfiling = "NO"
-            buildForArchiving = "NO"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "EDAD72E62756447B00FE70F4"
-               BuildableName = "CLI"
-               BlueprintName = "CLI"
-               ReferencedContainer = "container:Advent.xcodeproj">
-            </BuildableReference>
-         </BuildActionEntry>
-         <BuildActionEntry
-            buildForTesting = "NO"
-            buildForRunning = "NO"
-            buildForProfiling = "YES"
-            buildForArchiving = "YES"
-            buildForAnalyzing = "NO">
-            <BuildableReference
-               BuildableIdentifier = "primary"
-               BlueprintIdentifier = "EDAD731E2756494400FE70F4"
-               BuildableName = "Advent.framework"
+               BlueprintIdentifier = "EDAD73F0275797E000FE70F4"
+               BuildableName = "Advent.app"
                BlueprintName = "Advent"
-               ReferencedContainer = "container:Advent.xcodeproj">
-            </BuildableReference>
-         </BuildActionEntry>
-         <BuildActionEntry
-            buildForTesting = "YES"
-            buildForRunning = "NO"
-            buildForProfiling = "NO"
-            buildForArchiving = "NO"
-            buildForAnalyzing = "NO">
-            <BuildableReference
-               BuildableIdentifier = "primary"
-               BlueprintIdentifier = "EDAD73252756494400FE70F4"
-               BuildableName = "Tests.xctest"
-               BlueprintName = "Tests"
                ReferencedContainer = "container:Advent.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
@@ -82,9 +54,9 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "EDAD72E62756447B00FE70F4"
-            BuildableName = "CLI"
-            BlueprintName = "CLI"
+            BlueprintIdentifier = "EDAD73F0275797E000FE70F4"
+            BuildableName = "Advent.app"
+            BlueprintName = "Advent"
             ReferencedContainer = "container:Advent.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
@@ -95,6 +67,16 @@
       savedToolIdentifier = ""
       useCustomWorkingDirectory = "NO"
       debugDocumentVersioning = "YES">
+      <BuildableProductRunnable
+         runnableDebuggingMode = "0">
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "EDAD73F0275797E000FE70F4"
+            BuildableName = "Advent.app"
+            BlueprintName = "Advent"
+            ReferencedContainer = "container:Advent.xcodeproj">
+         </BuildableReference>
+      </BuildableProductRunnable>
    </ProfileAction>
    <AnalyzeAction
       buildConfiguration = "Debug">
