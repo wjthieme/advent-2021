@@ -14,5 +14,5 @@ extension Inputs {
 
 extension Outputs {
     @objc static let day02a = "150"
-    @objc static let day02b = "0"
+    @objc static let day02b = "900"
 }
