@@ -15,7 +15,7 @@ class Main: NSObject, NSApplicationDelegate {
 
     func applicationDidFinishLaunching(_ aNotification: Notification) {
         if unitTesting { return }
-        let puzzle = Puzzle.day06b
+        let puzzle = Puzzle.day07b
         cancellable = puzzle.getInput().sink { completion in
             guard case let .failure(error) = completion else { return }
             print(error.localizedDescription)
