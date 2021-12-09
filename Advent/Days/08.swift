@@ -65,4 +65,3 @@ fileprivate func decodeOutput(_ arr: [InputOutput]) -> [Int] {
     }
     return outputs
 }
-
